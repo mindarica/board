@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "description": "To do",
+        "taskListId": 1
+    },
+    {
+        "id": 2,
+        "description": "In progress",
+        "taskListId": 2
+    },
+    {
+        "id": 3,
+        "description": "Done",
+        "taskListId": 3
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "listName": "To do"
+    },
+    {
+        "id": 2,
+        "listName": "In progress"
+    },
+    {
+        "id": 3,
+        "listName": "Done"
+    }
+]
